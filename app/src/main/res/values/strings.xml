@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">lesson1</string>
+    <string name="booking_details">Booking details</string>
+    <string name="waroeng_down_normal">WAROENG DOWN NORMAL</string>
+    <string name="jumlah_kursi">Jumlah kursi</string>
+    <string name="_25_kursi">25 Kursi</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="_20_june_8pm">20 June 8PM</string>
+    <string name="manue_package">Manue package</string>
+    <string name="chicken_gerpek">CHICKEN GERPEK</string>
+    <string name="_2_pieces">2 Pieces</string>
+    <string name="r">:</string>
+    <string name="price">Price</string>
+    <string name="_2x_chicken_gerpek">2x CHICKEN_GERPEK</string>
+    <string name="_43_02">$43.02</string>
+    <string name="people_present">People present</string>
+    <string name="todo">TODO</string>
+</resources>
